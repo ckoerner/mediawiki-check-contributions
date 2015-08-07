@@ -10,7 +10,15 @@ put the list of titles into this script.
 
 **whoContributes.py** - the actual script itself. Nothing fancy.
 
-**page-titles.txt** - Add a list of all pages you want to check. Each page
-title should be on it’s own line.
+**page-titles.txt** - Add a list of all pages you want to check. Each
+page title should be on it’s own line.
 
-**output.txt** - Your output will go here. Re-running the script will overwrite this file!
+**output.txt** - Your output will go here. Re-running the script will
+overwrite this file!
+
+The output.txt file can be opened in something like Excel and mucked
+with. The "|" character keeps things from getting confused with other
+special characters in a title. Modify as needed. I'm a fan of tossing
+it into a Pivot table to see who's a top contributor.
+
+Feedback and suggestions welcome.
