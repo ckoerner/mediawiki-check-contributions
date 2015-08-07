@@ -1,4 +1,4 @@
-#title			:gitMediawiki.sh
+#title			:whoContributes.py
 #description	:run through a list of wiki pages (listed in a text file) and gather the list of contributors
 #author			:Chris Koerner & Paul Boal
 #date			:20150907
